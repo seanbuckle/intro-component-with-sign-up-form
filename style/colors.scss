@@ -1,0 +1,15 @@
+:root{
+    // Colors
+    --red-color: oklch(73.3% 0.2097 21.92568387848305);
+    --green-color: oklch(75.28% 0.2368 159.42);
+    --light-green-color: oklch(83.59% 0.2469 163.29);
+    --purple-color: oklch(49.47% 0.2921 286.65);
+    --dark-grey-color: oklch(35.95% 0.022 292.29);
+    --dark-grey-75-color: oklch(35.95% 0.022 292.29/0.75);
+    --pale-grey-color: oklch(79.12% 0.041 290.18);
+    --light-grey-color: oklch(90.06% 0 0);
+    --white-color: oklch(100% 0 0);
+    // Shadows
+    --shadow-1: 0px -4px 0px 0px oklch(0% 0 0 / 9%) inset;
+    --shadow-2: 0px 8px 0px 0px oklch(0% 0 0 / 15%);
+}
